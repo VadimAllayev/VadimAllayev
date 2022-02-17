@@ -21,5 +21,10 @@ Here are some ideas to get you started:
   <body>
     <h1>🦆 Greetings and Welcome! 🥐</h1>
     <p> My name is Vadim Allayev and I am a Computer Science Major at Macaulay Queens College. </p>
+    <h2>About Me</h2>
+    <ul>
+      <li>Proficient in Java and Javascript, familiar with C++, Linux, Python, HTML</li>
+      <li>Spoken Languages: English, Russian, French</li>
+    </ul>
   </body>
 </html>
