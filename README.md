@@ -1,5 +1,6 @@
+<!--
 ### Hi there 👋
-
+-->
 <!--
 **VadimAllayev/VadimAllayev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,7 +19,7 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>Hello World</h1>
-    <p>I'm hosted with GitHub Pages.</p>
+    <h1>🦆 Welcome to Vadim's GitHub! 🥐</h1>
+    <p> Hi! My name is Vadim Allayev and I am a Computer Science Major at Macaulay Queens College. </p>
   </body>
 </html>
