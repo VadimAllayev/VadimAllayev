@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>🦆 Greetings and Welcome! 🥐</h1>
+    <h1>Greetings and Welcome!</h1>
     <p> My name is Vadim Allayev and I'm a Computer Science Major at Macaulay Queens College. </p>
     <h3>About Me</h3>
     <ul>
