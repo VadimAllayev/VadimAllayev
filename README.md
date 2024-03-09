@@ -23,7 +23,8 @@ Here are some ideas to get you started:
     <p> My name is Vadim Allayev and I'm a Computer Science Major at Macaulay Queens College. </p>
     <h3>About Me</h3>
     <ul>
-      <li>Proficient in Java; familiar with Javascript, C++, Vim, Git (terminal), Bash, Python, HTML</li>
+      <li>Proficient in Java; familiar with Javascript, HTML, CSS, Python, C++, Vim, Git (terminal), Bash</li>
+      <li>Currently learning: Web Technology, Databases, Python</li>
       <li>Spoken Languages: English, Russian, French</li>
     </ul>
   </body>
