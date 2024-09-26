@@ -19,13 +19,27 @@ Here are some ideas to get you started:
 <!DOCTYPE html>
 <html>
   <body>
-    <h1>Greetings and Welcome!</h1>
-    <p> My name is Vadim Allayev and I'm a Computer Science Major at Macaulay Queens College. </p>
-    <h3>About Me</h3>
+    <h1>Hi there! 😄</h1>
+    <p> My name is Vadim Allayev and I'm a Computer Science Major at Macaulay Queens College.</p>
+    <h2>About Me</h2>
+    <h3>Experience</h3>
+    <p>I have interned at Google for 3 summers, working on different teams and projects each year! My goal is to work as a Software Engineer.</p>
+    <ol>
+      <li>[Chrome] Converted the Secure Shell Extension into an Isolated Web App (IWA), enabling open-web technology functionality</li>
+      <li>[Maps] Worked with Google Maps infra to convert an endpoint handling double-digit QPS from its monolithic service to a microservice</li>
+      <li>[Automated Vulnerability Management] Built a CLI tool leveraging Gemini APIs to classify security vulnerabilities and generate automated reports</li>
+    </ol>
+    <h3>Hobbies</h3>
+    <p>I love music and am currently enrolled in music theory and sight singing, alongside my computer science classes.
+    I'm also passionate learning languages and have been learning Japanese and Russian.
+    Presently I am enrolled in a Wireless Networks course and next semester I will do a research project that relates to this field.
+    My goal is to work in a field that incorporates computer science and one (or more) of my hobbies!</p>
+    <h3>Skills</h3>
     <ul>
-      <li>Proficient in Java; familiar with Javascript, HTML, CSS, Python, C++, Vim, Git (terminal), Bash</li>
-      <li>Currently learning: Web Technology, Databases, Python</li>
-      <li>Spoken Languages: English, Russian, French</li>
+      <li>Proficient in Java, Kotlin, Protobufs</li>
+      <li>Familiar with Python, C++, Javascript, HTML, CSS, Vim, Git, Bash</li>
+      <li>Currently learning: Wireless Networks, Lisp</li>
+      <li>Spoken Languages: English, French, Russian</li>
     </ul>
   </body>
 </html>
